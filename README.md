@@ -23,14 +23,20 @@ The steps enumerated below describe how a user can use the dynamic UFO sighting 
 
 - Step 1: Copy the relative path of the index.html (file:///C:/Users/Administrator/UFOs/index.html) into a web-browser and click on Enter to launch the homepage of the webpage. By default the homepage is designed to load and display the a number of UFO sightings data. The 2 images below show the homepage.
 
+<img src="static/images/homepage1.png">
+
+
+<img src="static/images/homepage2.png">
 
 
 - Step 2: Navigate to the "Filter Search" section of the homepage, which houses the search criteria input fileds- Enter a Date, Enter a City, Enter a State, Enter a Country & Enter a Shape. Users can then input one or more appropriate filter parameters / criteria of their choice using the format of the placeholder in the input fields and press enter on their keyboard to fetch the filtered data. 
 
-
-
 The 2 images below show the results of filter searches using combination of Date = 1/1/2010 & Shape = Triangle ; While the 2nd is a combination of Date - 1/1/2010 & Shape = Unknown.
 
+<img src="static/images/searchcriteria1.png">
+
+
+<img src="static/images/searchcriteria2.png">
 
 
  - Step 3: Inputed data can be cleared from the search fields by using the backspace button on the keyboard.
